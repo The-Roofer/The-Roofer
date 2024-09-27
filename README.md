@@ -4,5 +4,5 @@
 # :palm_tree:![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=asp.net&logoColor=white):palm_tree:
 # :bar_chart: ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) :chart_with_upwards_trend:📐  ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassault%20systèmes&logoColor=white) 🛠️
 
-# Latest Gadget:
+# Latest Gadget: (click to view)
 [![Screenshot of HammerHelper](https://github.com/The-Roofer/AutoHotkeyScripts/blob/main/Tools/HammerHelper/screenshots/Gui.jpg)](https://github.com/The-Roofer/AutoHotkeyScripts/tree/main/Tools/HammerHelper)
