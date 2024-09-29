@@ -5,4 +5,4 @@
 # :bar_chart: ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) :chart_with_upwards_trend:📐  ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassault%20systèmes&logoColor=white) 🛠️
 
 # Latest Gadgets: (click to view)
-[![Screenshot of HammerHelper](https://github.com/The-Roofer/AutoHotkeyScripts/blob/main/Tools/HammerHelper/screenshots/Gui.jpg)](https://github.com/The-Roofer/AutoHotkeyScripts/tree/main/Tools/HammerHelper)[![Screenshot of ColorBoxes](https://github.com/The-Roofer/ReactColorboxes/blob/master/colorboxes.gif)](https://github.com/The-Roofer/ReactColorboxes/)
+[![Screenshot of HammerHelper](https://github.com/The-Roofer/AutoHotkeyScripts/blob/main/Tools/HammerHelper/screenshots/Gui.jpg)](https://github.com/The-Roofer/AutoHotkeyScripts/tree/main/Tools/HammerHelper)
